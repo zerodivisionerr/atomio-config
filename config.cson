@@ -1,0 +1,27 @@
+"*":
+  core:
+    audioBeep: false
+    projectHome: "/home/adam/git"
+    reopenProjectMenuCount: 5
+    telemetryConsent: "limited"
+    themes: [
+      "city-lights-ui"
+      "city-lights-syntax"
+    ]
+    uriHandlerRegistration: "always"
+  editor:
+    preferredLineLength: 75
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    softWrapHangingIndent: 4
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "3e2c0f4e-2c2d-4e33-80bc-6203bf17b510"
+  "platformio-ide-terminal":
+    toggles:
+      autoClose: true
+  welcome:
+    showOnStartup: false
